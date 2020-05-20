@@ -49,7 +49,7 @@ class MainApp(QMainWindow):
 		self.setCentralWidget(centralWidget)
 		
 		#Set Dimensions of the MainWindow
-		self.Widget.resize(400,500)
+		self.Widget.resize(400,200)
 		
 		#show everything.
 		self.show()

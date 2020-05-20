@@ -1,0 +1,4 @@
+name[en]: Seda Audio Player
+app: seda
+icon: @logo/seda
+comment[en]: seda is a default audio player in Pyabr

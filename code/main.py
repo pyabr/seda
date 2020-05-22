@@ -3,6 +3,7 @@ from os.path import expanduser
 from PyQt5.QtWidgets import *
 from PyQt5.QtMultimedia import *
 from PyQt5.QtCore import *
+from libabr import res
 
 class MainApp(QMainWindow):
 
@@ -30,6 +31,7 @@ class MainApp(QMainWindow):
 	def homeScreen(self):
 		#Set title of the MainWindow
 		self.Widget.setWindowTitle('Seda Audio Player')
+		self.Widget.setWindowIcon (res.get('@logo/seda'))
 		
 		#Create Menubar
 		self.createMenubar()

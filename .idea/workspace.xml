@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db8908c8-2731-4c7a-9c1a-4bfaeeac653f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/data/usr/share/docs/seda/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/usr/share/icons/128x128/calculator.svg" beforeDir="false" afterPath="$PROJECT_DIR$/data/usr/share/icons/128x128/seda.svg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +30,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/data/usr/share/docs/seda" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/data/usr/share/docs/seda" />
     </key>
@@ -85,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590052607105</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Commit all files">
+      <created>1590052976305</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1590052976305</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -94,14 +106,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="Commit all files" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="595" y="121" width="720" height="871" key="CommitChangelistDialog2" timestamp="1590052607028">
+    <state x="595" y="121" width="720" height="871" key="CommitChangelistDialog2" timestamp="1590052976233">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="595" y="121" width="720" height="871" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1590052607028" />
-    <state x="555" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1590052619315">
+    <state x="595" y="121" width="720" height="871" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1590052976233" />
+    <state x="555" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1590052981897">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="555" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1590052619315" />
+    <state x="555" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1590052981897" />
     <state x="754" y="468" width="402" height="191" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590052438133">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>

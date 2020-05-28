@@ -31,7 +31,7 @@ class MainApp(QMainWindow):
 	def homeScreen(self):
 		#Set title of the MainWindow
 		self.Widget.setWindowTitle('Seda Audio Player')
-		self.Widget.setWindowIcon (res.get('@logo/seda'))
+		self.Widget.setWindowIcon (QIcon(res.get('@logo/seda')))
 		
 		#Create Menubar
 		self.createMenubar()

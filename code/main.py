@@ -3,6 +3,7 @@ from os.path import expanduser
 from PyQt5.QtWidgets import *
 from PyQt5.QtMultimedia import *
 from PyQt5.QtCore import *
+from PyQt5.QtGui import *
 from libabr import res
 
 class MainApp(QMainWindow):
